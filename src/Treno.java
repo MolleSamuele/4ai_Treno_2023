@@ -11,7 +11,7 @@
  *  
  * @author Molle Samuele
  * 
- * versione 1
+ * versione 2
  *
  */
 public class Treno {
